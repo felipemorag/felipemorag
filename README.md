@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola👋
+
+Soy un entusiasta del análisis de datos con experiencia en herramientas como Python, SQL, Power BI y Tableau. Me apasiona extraer información valiosa de los datos para apoyar la toma de decisiones informadas y optimizar procesos. A lo largo de mi trayectoria, he trabajado en la creación de soluciones analíticas que permiten a las organizaciones tomar decisiones estratégicas basadas en datos. Mi objetivo es seguir desarrollando mis habilidades para generar resultados tangibles y positivos, contribuyendo al éxito de proyectos y mejorando la eficiencia en cada paso.
 
 <!--
 **felipemorag/felipemorag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
