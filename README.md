@@ -1,4 +1,4 @@
-<img src="[URL_DE_TU_IMAGEN](https://github.com/felipemorag/imagen-portada/blob/main/assets/presentacion.png?raw=true)" alt="Portada" style="width:100%; max-width:1200px; height:auto;">
+<img src="(https://github.com/felipemorag/imagen-portada/blob/main/assets/presentacion.png?raw=true)" alt="Portada" style="width:100%; max-width:1200px; height:auto;">
 
 
 # 💫 Sobre mi:
